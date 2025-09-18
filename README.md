@@ -4,7 +4,7 @@ Canonical source: https://askodin.app/rigor
 A company dedicated to building "Judgment Infrastructure" must itself be an engine of uncompromised rigor. Our product is a reflection of our process.
 This document is a living blueprint of the core principles that guide our work, our decisions, and our culture. It is our commitment to intellectual honesty, made public.
 
-##1. Thesis-Driven Action.
+## 1. Thesis-Driven Action.
 Every feature we build, every line of code we write, and every partnership we consider must be directly defensible against our core thesis: "Judgment is the last unscalable asset." Work that does not directly serve the mission of scaling judgment is a distraction. We prioritize ruthless focus over scattered effort.
 
 ## 2. Intellectual Honesty > Being Right.
